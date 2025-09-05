@@ -29,7 +29,7 @@ define( 'DB_USER', 'guruk2cy_superadmin' );
 define( 'DB_PASSWORD', 'superadmin@123#' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', '119.18.54.49' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
